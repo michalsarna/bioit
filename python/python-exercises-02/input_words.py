@@ -1,2 +1,2 @@
-text = input('Wpisz dokładnie 3 słowa')
+text = input('Wpisz dokładnie 3 słowa: ')
 
