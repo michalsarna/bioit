@@ -1,0 +1,180 @@
+name,HAIR,SEX,Year
+Spider-Man (Peter Parker),Brown Hair,Male Characters,1962
+Captain America (Steven Rogers),White Hair,Male Characters,1941
+"Wolverine (James \""Logan\"" Howlett)",Black Hair,Male Characters,1974
+"Iron Man (Anthony \""Tony\"" Stark)",Black Hair,Male Characters,1963
+Thor (Thor Odinson),Blond Hair,Male Characters,1950
+Benjamin Grimm (Earth-616),No Hair,Male Characters,1961
+Reed Richards (Earth-616),Brown Hair,Male Characters,1961
+Hulk (Robert Bruce Banner),Brown Hair,Male Characters,1962
+Scott Summers (Earth-616),Brown Hair,Male Characters,1963
+Jonathan Storm (Earth-616),Blond Hair,Male Characters,1961
+Henry McCoy (Earth-616),Blue Hair,Male Characters,1963
+Susan Storm (Earth-616),Blond Hair,Female Characters,1961
+Namor McKenzie (Earth-616),Black Hair,Male Characters,
+Ororo Munroe (Earth-616),White Hair,Female Characters,1975
+Clinton Barton (Earth-616),Blond Hair,Male Characters,1964
+Matthew Murdock (Earth-616),Red Hair,Male Characters,1964
+Stephen Strange (Earth-616),Black Hair,Male Characters,1963
+Mary Jane Watson (Earth-616),Red Hair,Female Characters,1965
+John Jonah Jameson (Earth-616),Black Hair,Male Characters,1963
+Robert Drake (Earth-616),Brown Hair,Male Characters,1963
+Henry Pym (Earth-616),Blond Hair,Male Characters,1962
+Charles Xavier (Earth-616),Bald,Male Characters,1963
+Warren Worthington III (Earth-616),Blond Hair,Male Characters,1963
+Piotr Rasputin (Earth-616),Black Hair,Male Characters,1975
+Wanda Maximoff (Earth-616),Brown Hair,Female Characters,1964
+Nicholas Fury (Earth-616),Brown Hair,Male Characters,1963
+Janet van Dyne (Earth-616),Auburn Hair,Female Characters,1963
+Jean Grey (Earth-616),Red Hair,Female Characters,1963
+Natalia Romanova (Earth-616),Red Hair,Female Characters,1964
+Kurt Wagner (Earth-616),Blue Hair,Male Characters,1975
+Vision (Earth-616),No Hair,Male Characters,1968
+May Reilly (Earth-616),Grey Hair,Female Characters,1962
+Katherine Pryde (Earth-616),Brown Hair,Female Characters,1980
+Carol Danvers (Earth-616),Blond Hair,Female Characters,1968
+Jennifer Walters (Earth-616),Brown Hair,Female Characters,1980
+Emma Frost (Earth-616),Brown Hair,Female Characters,1980
+Frank Castle (Earth-616),Black Hair,Male Characters,1974
+Luke Cage (Earth-616),Black Hair,Male Characters,1972
+Rogue (Anna Marie) (Earth-616),Auburn Hair,Female Characters,
+Conan (Earth-616),Black Hair,Male Characters,1970
+Joseph Robertson (Earth-616),White Hair,Male Characters,1967
+Pietro Maximoff (Earth-616),Silver Hair,Male Characters,1964
+Hercules (Earth-616),Brown Hair,Male Characters,1965
+Victor von Doom (Earth-616),Brown Hair,Male Characters,1962
+Max Eisenhardt (Earth-616),Bald,Male Characters,1963
+Elizabeth Braddock (Earth-616),Purple Hair,Female Characters,1976
+Norrin Radd (Earth-616),Bald,Male Characters,1966
+Norman Osborn (Earth-616),Auburn Hair,Male Characters,1964
+Eugene Thompson (Earth-616),Strawberry Blond Hair,Male Characters,1962
+Simon Williams (Earth-616),Grey Hair,Male Characters,1964
+Samuel Guthrie (Earth-616),Blond Hair,Male Characters,1982
+James Buchanan Barnes (Earth-616),Brown Hair,Male Characters,1941
+Remy LeBeau (Earth-616),Brown Hair,Male Characters,1990
+Daniel Rand (Earth-616),Blond Hair,Male Characters,1974
+Nathan Summers (Earth-616),White Hair,Male Characters,1986
+Elizabeth Brant (Earth-616),Brown Hair,Female Characters,1963
+Richard Jones (Earth-616),Brown Hair,Male Characters,1962
+Edwin Jarvis (Earth-616),White Hair,Male Characters,1964
+Alexander Summers (Earth-616),Blond Hair,Male Characters,1969
+Patricia Walker (Earth-616),Red Hair,Female Characters,1944
+Human Torch (Android) (Earth-616),Blond Hair,Male Characters,1939
+Loki Laufeyson (Earth-616),Black Hair,Genderfluid Characters,1949
+Franklin Nelson (Earth-616),Bald,Male Characters,1964
+Brian Braddock (Earth-616),Blond Hair,Male Characters,1976
+Otto Octavius (Earth-616),Brown Hair,Male Characters,1963
+James Rhodes (Earth-616),Brown Hair,Male Characters,1979
+Timothy Dugan (Earth-616),Red Hair,Male Characters,1963
+Crystalia Amaquelin (Earth-616),Strawberry Blond Hair,Female Characters,1965
+Samuel Wilson (Earth-616),Black Hair,Male Characters,1969
+Wilson Fisk (Earth-616),Bald,Male Characters,1967
+Odin Borson (Earth-616),White Hair,Male Characters,1962
+Deadpool (Wade Wilson),Bald,Male Characters,1991
+Dane Whitman (Earth-616),Brown Hair,Male Characters,1967
+Harold Osborn (Earth-616),Brown Hair,Male Characters,1965
+Franklin Richards (Earth-616),Blond Hair,Male Characters,1968
+Jessica Drew (Earth-616),Auburn Hair,Female Characters,1977
+Roberto da Costa (Earth-616),Black Hair,Male Characters,1982
+Rahne Sinclair (Earth-616),Red Hair,Female Characters,1982
+Elizabeth Ross (Earth-616),Black Hair,Female Characters,1962
+Lorna Dane (Earth-616),Green Hair,Female Characters,1968
+Blaine Colt (Earth-616),Blond Hair,Male Characters,
+Johnathon Blaze (Earth-616),Reddish Blond Hair,Male Characters,1972
+Sif (Earth-616),Black Hair,Female Characters,1964
+Red Hulk (Thaddeus Ross),Black Hair,Male Characters,1962
+Jubilation Lee (Earth-616),Black Hair,Female Characters,1989
+Volstagg (Earth-616),Red Hair,Male Characters,1965
+Balder Odinson (Earth-616),Brown Hair,Male Characters,1962
+Galactus (Earth-616),No Hair,Male Characters,1966
+Danielle Moonstar (Earth-616),Black Hair,Female Characters,1982
+Marc Spector (Earth-616),Brown Hair,Male Characters,1975
+Gwendolyne Stacy (Earth-616),Blond Hair,Female Characters,1965
+Medusalith Amaquelin (Earth-616),Red Hair,Female Characters,1965
+Sabretooth (Victor Creed),Blond Hair,Male Characters,1977
+Illyana Rasputina (Earth-616),Blond Hair,Female Characters,1975
+Johann Shmidt (Earth-616),Blond Hair,Male Characters,1941
+Fandral (Earth-616),Blond Hair,Male Characters,1965
+Sean Cassidy (Earth-616),Strawberry Blond Hair,Male Characters,1967
+Thomas Raymond (Earth-616),Black Hair,Male Characters,1940
+Uatu (Earth-616),Bald,Male Characters,1963
+Richard Rider (Earth-616),Brown Hair,Male Characters,1976
+Hogun (Earth-616),Black Hair,Male Characters,1965
+Raven Darkholme (Earth-616),Red Hair,Female Characters,1978
+Barbara Morse (Earth-616),Blond Hair,Female Characters,1971
+Blackagar Boltagon (Earth-616),Black Hair,Male Characters,1965
+Brunnhilde (Earth-616),Blond Hair,Female Characters,1970
+Alison Blaire (Earth-616),Strawberry Blond Hair,Female Characters,1980
+Venom (Symbiote) (Earth-616),No Hair,Agender Characters,1984
+John Walker (Earth-616),Blond Hair,Male Characters,1986
+Greer Grant (Earth-616),Black Hair,Female Characters,1972
+Karla Sofen (Earth-616),Blond Hair,Female Characters,1975
+William Baker (Earth-616),Brown Hair,Male Characters,1963
+Sharon Carter (Earth-616),Blond Hair,Female Characters,1966
+Felicia Hardy (Earth-616),Blond Hair,Female Characters,1979
+Cain Marko (Earth-616),Red Hair,Male Characters,1965
+Monica Rambeau (Earth-616),Black Hair,Female Characters,
+Maria Hill (Earth-616),Black Hair,Female Characters,2005
+Ben Urich (Earth-616),Brown Hair,Male Characters,1978
+Heather Douglas (Earth-616),Bald,Female Characters,1973
+Millicent Collins (Earth-616),Blond Hair,Female Characters,1945
+James Proudstar (Earth-616),Black Hair,Male Characters,1984
+Angelica Jones (Earth-616),Red Hair,Female Characters,1985
+Edward Brock (Earth-616),Blond Hair,Male Characters,1986
+MacDonald Gargan (Earth-616),Bald,Male Characters,1964
+Mephisto (Earth-616),Black Hair,Male Characters,1968
+Tabitha Smith (Earth-616),Blond Hair,Female Characters,1985
+Jean-Paul Beaubier (Earth-616),Black Hair,Male Characters,1979
+Daniel Ketch (Earth-616),Brown Hair,Male Characters,1990
+Neena Thurman (Earth-616),Black Hair,Female Characters,1992
+Wong (Earth-616),Bald,Male Characters,1963
+Thanos (Earth-616),No Hair,Male Characters,1973
+Shang-Chi (Earth-616),Black Hair,Male Characters,1973
+Alicia Masters (Earth-616),Strawberry Blond Hair,Female Characters,1962
+Robert Baldwin (Earth-616),Blond Hair,Male Characters,1988
+Vance Astrovik (Earth-616),Brown Hair,Male Characters,1975
+Wendell Vaughn (Earth-616),Blond Hair,Male Characters,1978
+Chili Storm (Earth-616),Red Hair,Female Characters,1948
+Abner Jenkins (Earth-616),Brown Hair,Male Characters,1964
+Elektra Natchios (Earth-616),Black Hair,Female Characters,1981
+Bullseye (Lester) (Earth-616),Blond Hair,Male Characters,1976
+Forge (Earth-616),Black Hair,Male Characters,1984
+Virginia Potts (Earth-616),Red Hair,Female Characters,1963
+Walter Langkowski (Earth-616),Blond Hair,Male Characters,1979
+Gorgon (Earth-616),Brown Hair,Male Characters,1965
+James Madrox (Earth-616),Brown Hair,Male Characters,1975
+Heimdall (Earth-616),Brown Hair,Male Characters,1962
+Theresa Cassidy (Earth-616),Red Hair,Female Characters,1981
+Laura Kinney (Earth-616),Black Hair,Female Characters,2004
+Arthur Douglas (Earth-616),Brown Hair,Male Characters,1973
+Peter Parker (Ben Reilly) (Earth-616),Blond Hair,Male Characters,1975
+Warlock (Technarch) (Earth-616),No Hair,Male Characters,1984
+Kevin Plunder (Earth-616),Blond Hair,Male Characters,1965
+Leonard Samson (Earth-616),Green Hair,Male Characters,1971
+Melissa Gold (Earth-616),Blond Hair,Female Characters,1979
+Lockheed (Earth-616),No Hair,Male Characters,1983
+Mercedes Knight (Earth-616),Black Hair,Female Characters,1972
+Moira Kinross (Earth-616),Brown Hair,Female Characters,1975
+Karnak (Earth-616),Black Hair,Male Characters,1965
+Namorita Prentiss (Earth-616),Blond Hair,Female Characters,1972
+Lockjaw (Earth-616),Brown Hair,Male Characters,1965
+Adam Warlock (Earth-616),Gold Hair,Male Characters,1967
+Heather McNeil (Earth-616),Red Hair,Female Characters,1980
+Curtis Connors (Earth-616),No Hair,Male Characters,1963
+Theodore Sallis (Earth-616),No Hair,Male Characters,1971
+Adrian Toomes (Earth-616),Bald,Male Characters,1963
+Amora (Earth-616),Blond Hair,Female Characters,1964
+Clea (Earth-616),White Hair,Female Characters,1964
+Mar-Vell (Earth-616),Blond Hair,Male Characters,1967
+Eugene Judd (Earth-616),Bald,Male Characters,1983
+Daimon Hellstrom (Earth-616),Red Hair,Male Characters,1973
+John Jonah Jameson III (Earth-616),Auburn Hair,Male Characters,1963
+Triton (Earth-616),No Hair,Male Characters,1965
+Meggan Puceanu (Earth-616),,Female Characters,1983
+Robert Reynolds (Earth-616),Blond Hair,Male Characters,2000
+Aleksei Sytsevich (Earth-616),Brown Hair,Male Characters,1966
+Santo Vaccarro (Earth-616),No Hair,Male Characters,2003
+Jonathan Clay (Earth-616),Red Hair,Male Characters,1960
+Ares (Earth-616),Brown Hair,Male Characters,1949
+Sersi (Earth-616),Black Hair,Female Characters,1976
+Guido Carosella (Earth-616),Bald,Male Characters,1985
